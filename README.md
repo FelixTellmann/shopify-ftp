@@ -6,7 +6,7 @@ Note: this tool is built with [Node.js](https://nodejs.org) and is installed via
  
 ### Installation:
 
-    npm install -g shopify-ftp
+    npm install -g shopify-ftp2
 
 Note: You may need to run as root/super-user on Mac/Linux using `sudo npm install -g shopify-ftp` or, alternatively, install without `-g` and then specify the full path to `shopify.js` in place of `shopify` each time you launch the program. The full path might look something like `/Users/You/node_modules/shopify-ftp/shopify.js` depending on where `npm` puts your module.
 
