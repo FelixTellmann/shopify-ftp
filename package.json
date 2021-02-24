@@ -1,6 +1,6 @@
 {
   "name": "shopify-ftp2",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "description": "FTP Proxy for Shopify",
   "main": "shopify.js",
   "bin": {
