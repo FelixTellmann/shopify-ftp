@@ -6,7 +6,7 @@
 
   var commander = require('commander');
   var request = require('request');
-  var ftpd = require('@svrooij/ftpd');
+  var ftpd = require('./lib/ftpd');
   var path = require('path');
 
   commander
